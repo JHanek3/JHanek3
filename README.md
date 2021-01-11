@@ -2,11 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=hanekvue.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hanekvue.herokuapp.com/)
 
-## I'm a Developer, Learner, and a Gamer!!
+## I'm a Learner, Developer, Nerd, and a Gamer!!
 
-- 🔭 This project is my current pride and joy: [Call of Cthulu Character Interface!][course]!
-- 🥅 2021 Goals: Get employed as a MERN Developer, create & publish my own NPM package
-- ⚡ Fun fact: I love to play hockey and  
+- 🔭 This project is my current pride and joy: [Call of Cthulu Character Interface!][https://dacthulu.herokuapp.com/]!
+- 🎯 2021 Goals: Get employed as a MERN Developer, create & publish my own NPM package.
+- ⚡ Fun fact: I am apart of the 1,000 pounds club 💪 and I love playing Hockey🥅!
+- 🎲 Videogame: CoD Warzone, RPG: Call of Cthulu, BG: Splendor, Wargame: X-Wing/40k.
+
 
 
 ### Connect with me:

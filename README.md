@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=hanekvue.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hanekvue.herokuapp.com/)
 
-## I'm a Learner, Developer, Nerd, and Gamer!!
+## I'm an Apprentice, Developer, Nerd, and Gamer!!
 
-- 🔭 This project is my current pride and joy: [Call of Cthulu Character Interface!][https://dacthulu.herokuapp.com/]!
+- 🔭 This project is my current pride and joy: [Call of Cthulu Character Interface!](https://dacthulu.herokuapp.com/)!
 - 🎯 2021 Goals: Get employed as a MERN Developer, create & publish my own NPM package.
 - ⚡ Fun fact: I am apart of the 1,000 pounds club 💪 and I love playing Hockey🥅!
 - 🎲 Videogame: CoD Warzone, RPG: Call of Cthulu, BG: Splendor, Wargame: X-Wing/40k.
@@ -13,8 +13,8 @@
 
 ### Connect with me (I'm not much into Social Media 🐢):
 
-[<img align="left" alt="JHanek3" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>Hanekj25@gmail.com] 
-[<img align="left" alt="JHanek3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="JHanek3" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/> 
+<img align="left" alt="JHanek3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 

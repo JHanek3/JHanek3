@@ -39,7 +39,7 @@
 
 <br />
 
-💭 "Complain less, enjoy more."
+### 💭 "Complain less, enjoy more."
 
 
 

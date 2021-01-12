@@ -39,9 +39,9 @@
 
 <br />
 
-### Parting Words:
+💭 "Complain less, enjoy more."
 
-- 💭 "Complain less, enjoy more." - Me
+
 
 
 ---

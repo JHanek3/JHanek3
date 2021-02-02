@@ -6,7 +6,7 @@
 
 - 🔭 This project is my current pride and joy: [Call of Cthulu Character Interface!](https://dacthulu.herokuapp.com/)!
   - Deployed: JSON WebToken Authentication - Developing: Character Sheet UI - Down the pipeline: Dice Rolling Animation 
-- 🎯 2021 Goals: Get employed as a MERN Developer, create & publish my own NPM package.
+- 🎯 2021 Goals: Get employed as a MERN Developer or Python Developer, create & publish my own NPM package.
 - ⚡ Fun fact: I am apart of the 1,000 pounds club 💪 and I love playing Hockey🥅!
 - 🎲 Videogame: CoD Warzone, RPG: Call of Cthulu, BG: Splendor, Wargame: X-Wing/40k.
 
